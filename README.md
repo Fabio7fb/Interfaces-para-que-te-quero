@@ -1,3 +1,3 @@
-# Interfaces-para-que-te-quero
-Interface para que te quero
-[Interface para que te quero perguntas.docx](https://github.com/Fabio7fb/Interfaces-para-que-te-quero/files/10905164/Interface.para.que.te.quero.perguntas.docx)
+Atividade -Interface para que te quero
+Ao acessar o link irá ser direcionado ao projeto do figma:
+https://www.figma.com/file/Ow59wTcEFYn8Ejsr4mV8Ga/INTERFACE-PARA-QUE-TE-QUERO?t=czMr8lzPnr7qZnAc-6
